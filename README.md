@@ -1,16 +1,35 @@
-## Hi there 👋
+##Hi, I am Munzir
+I am doing my BSc in Computer Science and Engineering at Islamic University of Technology, Bangladesh.
 
-<!--
-**Monajir/Monajir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Field of Interest: 
+- Computer Vision
+- Machine Learning
+- Full Stack Development
+- Android Development
+- Cyber Security
 
-Here are some ideas to get you started:
+##Tech Stacks:
+- Spring Boot
+- MERN
+- Python
+- React Native
+- PostgreSQL
+- TypeScript
+- Tensorflow
+- Pytorch
+- C
+- C++
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Featured Project:
+- https://www.github.com/Monajir/Mutqin
+- https://www.github.com/Monajir/OverDo
+- https://www.github.com/Monajir/OmniSpace
+
+##Certifications:
+- Deep Learning Specialization — DeepLearning.AI
+- Machine Learning Specialization — DeepLearning.AI & Stanford
+
+##Contacts:
+- Linkedin: www.linkedin.com/in/monazir-md-minhaz-226b642ab
+- Email: monazirminhaz@iut-dhaka.edu
